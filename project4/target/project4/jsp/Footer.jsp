@@ -1,0 +1,23 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<html>
+<head>
+<style >
+.footer{
+position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: white;
+  color: black;
+  text-align: center;
+  }</style>
+  <title>FOOTER</title>
+</head>
+<body>
+<div class = "footer">
+<HR>
+     <H3>&copy; Copyright RAYS Technologies</H3>
+</div>
+</body>
+</html>
